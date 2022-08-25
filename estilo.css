@@ -1,0 +1,23 @@
+body{
+    background: rgb(56, 161, 202);
+    font: normal 16pt Cursive;
+}
+
+header{
+    color: lightblue;
+    text-align: center;
+}
+
+section{
+    background: whitesmoke;
+    border-radius: 10px;
+    padding: 17px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 6px 6px 11px rgb(53, 53, 53);
+}
+
+footer{
+    color: lightblue;
+    text-align: center;
+}
